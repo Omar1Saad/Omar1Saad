@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Email: froomomer66@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-saad-616044363)
