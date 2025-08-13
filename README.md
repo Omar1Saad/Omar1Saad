@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 ## 📫 How to Reach Me
 - Email: froomomer66@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/omar-saad-616044363)
+- LinkedIn: [Omar Saad](https://www.linkedin.com/in/omar-saad-616044363)
