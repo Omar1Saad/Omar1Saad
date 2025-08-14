@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
 ---
 
